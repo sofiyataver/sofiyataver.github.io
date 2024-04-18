@@ -1,0 +1,4 @@
+# App-ads.txt for Beat Battle
+
+
+google.com, pub-2536168501729937, DIRECT, f08c47fec0942fa0
